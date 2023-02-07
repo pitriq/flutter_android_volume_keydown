@@ -9,7 +9,7 @@ import android.view.KeyEvent;
 
 import java.io.Console;
 
-import io.flutter.embedding.android.FlutterActivity;
+import io.flutter.embedding.android.FlutterFragmentActivity;
 
 public class FlutterAndroidVolumeKeydownActivity extends FlutterFragmentActivity {
     @Override
